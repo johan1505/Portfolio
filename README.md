@@ -1,7 +1,6 @@
-# Personal-Website
+# Portfolio
 
-This is the repository for my personal website.
-I mainly developed this website to let people know more about me, my passions, skills, and projects!
-I used HTML for the structure and body of the website and CSS for the decoration and embellishment of it.
+This is the repository for my personal portfolio website.
+where you can get to know more about me, my passions, skills, and projects!. I used React.js and Typescript to develop this web application.
 
-You can acces my website using this link: https://johan1505.github.io/Personal-Website/
+You can access my website using this link: https://johan1505.github.io/Portfolio
