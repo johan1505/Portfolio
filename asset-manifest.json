@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.07e7cd83.chunk.css",
-    "main.js": "/Portfolio/static/js/main.6d9adc9d.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.6d9adc9d.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.ae67cb40.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ae67cb40.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d4934111.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d4934111.js.map",
-    "static/js/2.d9afbd1c.chunk.js": "/Portfolio/static/js/2.d9afbd1c.chunk.js",
-    "static/js/2.d9afbd1c.chunk.js.map": "/Portfolio/static/js/2.d9afbd1c.chunk.js.map",
+    "static/js/2.d35598f2.chunk.js": "/Portfolio/static/js/2.d35598f2.chunk.js",
+    "static/js/2.d35598f2.chunk.js.map": "/Portfolio/static/js/2.d35598f2.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.66de538ff26583c0a87f414669c89747.js": "/Portfolio/precache-manifest.66de538ff26583c0a87f414669c89747.js",
+    "precache-manifest.b634e1cd799098bfe988bc575840ffa0.js": "/Portfolio/precache-manifest.b634e1cd799098bfe988bc575840ffa0.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/main.07e7cd83.chunk.css.map": "/Portfolio/static/css/main.07e7cd83.chunk.css.map",
-    "static/js/2.d9afbd1c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d9afbd1c.chunk.js.LICENSE.txt",
+    "static/js/2.d35598f2.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d35598f2.chunk.js.LICENSE.txt",
     "static/media/Magnitie1.jpg": "/Portfolio/static/media/Magnitie1.e1be1381.jpg",
     "static/media/Magnitie2.jpg": "/Portfolio/static/media/Magnitie2.88fbc6f4.jpg",
     "static/media/Magnitie3.jpg": "/Portfolio/static/media/Magnitie3.8ca0b057.jpg",
@@ -20,14 +20,15 @@
     "static/media/MoodMixer1.png": "/Portfolio/static/media/MoodMixer1.fff3b42b.png",
     "static/media/MoodMixer2.png": "/Portfolio/static/media/MoodMixer2.b1a0c4bd.png",
     "static/media/MoodMixer3.png": "/Portfolio/static/media/MoodMixer3.6e07ef34.png",
+    "static/media/Profile.jpg": "/Portfolio/static/media/Profile.8da1a66c.jpg",
     "static/media/TIMI1.png": "/Portfolio/static/media/TIMI1.e2b5f2ab.png",
     "static/media/TIMI2.png": "/Portfolio/static/media/TIMI2.2a54e8e7.png",
     "static/media/ThErapyScreening.jpg": "/Portfolio/static/media/ThErapyScreening.ea1aa96b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d4934111.js",
-    "static/js/2.d9afbd1c.chunk.js",
+    "static/js/2.d35598f2.chunk.js",
     "static/css/main.07e7cd83.chunk.css",
-    "static/js/main.6d9adc9d.chunk.js"
+    "static/js/main.ae67cb40.chunk.js"
   ]
 }
