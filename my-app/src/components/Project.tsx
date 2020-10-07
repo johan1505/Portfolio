@@ -52,7 +52,7 @@ export default function Project({
 					container
 					item
 					lg={6}
-					md={6}
+					md={12}
 					sm={12}
 					xs={12}
 					direction='column'
@@ -60,7 +60,7 @@ export default function Project({
 				>
 					<ImageSlider picturePaths={picturePaths} alt={title} />
 				</Grid>
-				<Grid item container lg={6} md={6} sm={12} xs={12} spacing={5}>
+				<Grid item container lg={6} md={12} sm={12} xs={12} spacing={5}>
 					<Grid item>
 						<Typography variant='body1' align='justify'>
 							{description}
@@ -70,7 +70,9 @@ export default function Project({
 						<Grid item>
 							<div style={{ display: 'flex', alignItems: 'center' }}>
 								<CalendarIcon />
-								<Typography align='center'>{date}</Typography>
+								<Typography align='center' variant='h6'>
+									{date}
+								</Typography>
 							</div>
 						</Grid>
 						<Grid item>
